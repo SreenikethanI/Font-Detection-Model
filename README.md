@@ -8,10 +8,10 @@ Check out the repo for an interactive front-end demo:
 Check out the images in the [Demo sample](Demo%20sample/) folder to test the model.
 
 Team members:
-- **Sreenikethan Iyer - 2022A7PS0034U**
-- **Joseph Cijo - 2022A7PS0019U**
-- **Mohammed Emaan - 2022A7PS0036U**
-- **Yusra Hakim - 2022A7PS0004U**
+- **Sreenikethan Iyer - 2022A7PS0034U** - [@SreenikethanI](https://github.com/SreenikethanI)
+- **Joseph Cijo - 2022A7PS0019U** - [@joejo-joestar](https://github.com/joejo-joestar)
+- **Mohammed Emaan - 2022A7PS0036U** - [@Emaan-BITS](https://github.com/Emaan-BITS)
+- **Yusra Hakim - 2022A7PS0004U** - [@Sapphire-Starflower](https://github.com/Sapphire-Starflower)
 
 ---
 
