@@ -5,6 +5,8 @@ A Deep Learning model to predict the font used in a given image.
 Check out the repo for an interactive front-end demo:
 <br />✨ https://github.com/joejo-joestar/Font-Detection-App
 
+Check out the images in the [Demo sample](Demo%20sample/) folder to test the model.
+
 Team members:
 - **Sreenikethan Iyer - 2022A7PS0034U**
 - **Joseph Cijo - 2022A7PS0019U**
